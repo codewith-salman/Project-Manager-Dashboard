@@ -1,12 +1,6 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
-
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Project Manager Dashboard Logo" width="120" />
-
-<br /><br />
 
 ## 📊 Project Manager Dashboard  
 A clean, powerful, and fully responsive **Project Management Dashboard UI** built using HTML, CSS, and JavaScript.  
