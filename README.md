@@ -9,17 +9,12 @@
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/project-manager-dashboard?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://project-manager-dashboard-iota.vercel.app/)
+
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
-<br />
-
-<!-- 🔰 PROJECT LOGO -->
-<img src="Project%20Manager%20Dashboard/images/logo.png" alt="Project Manager Dashboard Logo" width="120"/>
-
-<br />
 <br />
 
 <h1 align="center">📊 Project Manager Dashboard</h1>
