@@ -1,37 +1,78 @@
 <div id="top"></div>
 
+<br />
 <div align="center">
 
-## 📊 Project Manager Dashboard  
-A clean, powerful, and fully responsive **Project Management Dashboard UI** built using HTML, CSS, and JavaScript.  
-Designed to help teams track projects, tasks, progress, and performance through an intuitive dashboard layout.
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/project-manager-dashboard)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/project-manager-dashboard?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/project-manager-dashboard?style=social)
 
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://project-manager-dashboard-iota.vercel.app/)
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
 
-<!-- ABOUT THE PROJECT -->
+<!-- 🔰 PROJECT LOGO -->
+<img src="Project%20Manager%20Dashboard/images/logo.png" alt="Project Manager Dashboard Logo" width="120"/>
+
+<br />
+<br />
+
+<h1 align="center">📊 Project Manager Dashboard</h1>
+
+A clean, powerful, and fully responsive  
+**Project Management Dashboard UI** built using **HTML, CSS, and JavaScript**.
+
+<a href="https://project-manager-dashboard-iota.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+---
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+---
+
 ## 📖 About The Project
 
-<img src="Project%20Manager%20Dashboard/images/light-desktop.png" alt="Project Manager Dashboard Desktop View" width="100%" />
-<img src="Project%20Manager%20Dashboard/images/dark-desktop.png" alt="Project Manager Dashboard Desktop View" width="100%" />
+<img src="Project%20Manager%20Dashboard/images/light-desktop.png" alt="Project Manager Dashboard Light Mode" width="100%" />
+<img src="Project%20Manager%20Dashboard/images/dark-desktop.png" alt="Project Manager Dashboard Dark Mode" width="100%" />
 
-The **Project Manager Dashboard** is a professional dashboard UI concept created for project managers, teams, and organizations.  
-It focuses on presenting complex project data in a clear and organized way using cards, tables, charts, and progress indicators.
+The **Project Manager Dashboard** is a professional dashboard UI designed for project managers, teams, and organizations to monitor projects, tasks, and overall performance.
 
-This project demonstrates your ability to design **data-driven dashboard interfaces**, organize information hierarchy, and build responsive layouts suitable for real-world management tools.  
-From task tracking to performance insights, this dashboard delivers clarity, productivity, and control.
+The dashboard focuses on:
+- Clear data visualization  
+- Organized information hierarchy  
+- Productivity-focused UI patterns  
+- Responsive and scalable layout design  
 
-Perfect for:
+This project demonstrates your ability to create **data-driven dashboards** using cards, tables, progress indicators, and structured layouts suitable for real-world SaaS and admin panels.
+
+Ideal use cases:
 - Project management tools  
 - Team collaboration platforms  
 - Admin dashboards  
 - SaaS web applications  
 - Dashboard UI/UX practice projects  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
-### ✨ Features
+## ✨ Features
 
 - Fully responsive dashboard layout  
 - Project and task overview sections  
@@ -41,19 +82,28 @@ Perfect for:
 - Smooth hover effects and interactions  
 - Scalable and easy-to-extend structure  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
-### 🛠️ Built With
+## 🛠️ Built With
 
-* [HTML5](https://html5.org/)  
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+This project is built using:
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## 📬 Contact
 
-**LinkedIn** – [Muhammad Salman Arshad](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-**Email** – [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman  
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
