@@ -16,7 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
-
 <h1 align="center">📊 Project Manager Dashboard</h1>
 
 A clean, powerful, and fully responsive  
@@ -63,8 +62,6 @@ Ideal use cases:
 - SaaS web applications  
 - Dashboard UI/UX practice projects  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -77,8 +74,6 @@ Ideal use cases:
 - Smooth hover effects and interactions  
 - Scalable and easy-to-extend structure  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -88,8 +83,6 @@ This project is built using:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
