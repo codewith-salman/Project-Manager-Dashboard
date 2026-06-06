@@ -71,7 +71,6 @@ Ideal use cases:
 - Progress tracking and status indicators  
 - Clean card-based UI design  
 - Organized tables and data views  
-- Smooth hover effects and interactions  
 - Scalable and easy-to-extend structure  
 
 ---
